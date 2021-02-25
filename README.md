@@ -4,7 +4,7 @@ This project is to create a fully managed .NET browser implementation that can r
 
 # Are you nuts? It would take years and tons of man-hours!
 
-The way I see things, those are excuses rather than legitimate reasons not to do this. We go to the moon not because it's easy, etc. I relize the scope of this project, and that it's going to take more than me to get it done. I'm doing this partly to learn, and partly because I hope someday this may be useful to other people. My philosophy is to go forth boldly, so that's what I'm doing.
+The way I see things, those are excuses rather than legitimate reasons not to do this. We go to the moon not because it's easy, etc. I realize the scope of this project, and that it's going to take more than me to get it done. I'm doing this partly to learn, and partly because I hope someday this may be useful to other people. My philosophy is to go forth boldly, so that's what I'm doing.
 
 There are two large pieces that I'm still researching. I don't intend to write a javascript interpreter or whatever is needed to run WebAssembly. If possible, the plan is to integrate an existing javascript engine (maybe allow the user to choose a javascript engine). I need to research WebAssembly more to know what options are possible.
 
@@ -18,4 +18,4 @@ The main advantage of making this project a fork would be to submit enhancements
 
 # How you can help / Where is the code
 
-As I said earlier, this project is far too large for me to tackle by myself. I'm currently evaulating the existing codebase and working on setting up overall structures for the various browser features. i'm also working on updating the demo application to be more useful. Once this is complete, I will upload the code. If you're interested in helping, PR's are welcome. I have a regular full time job, but I can get on any of the major chat platforms in the evenings if you'd like to have a deeper convo. I can also be reached via email -- taladon at gmail dot com
+As I said earlier, this project is far too large for me to tackle by myself. I'm currently evaulating the existing codebase and working on setting up overall structures for the various browser features. i'm also working on updating the demo application to be more useful. Once this is complete, I will upload the code. If you're interested in helping, PR's are welcome. Reviews of the architecture / plans are also extremely helpful. I have a regular full time job, but I can get on any of the major chat platforms in the evenings if you'd like to have a deeper convo. I can also be reached via email -- taladon at gmail dot com
