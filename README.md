@@ -16,6 +16,16 @@ I thought about starting from scratch and was prepared to do so. Then I found ht
 
 The main advantage of making this project a fork would be to submit enhancements upstream. The main issue I see is that making this a full web browser is going to be such a rework that people who use the ArthurHub project would have to change their code significantly to use this project. Also, the ArthurHub project hasn't had much activity in a long time. When possible, I will manually submit PR's to ArthurHub, especially in the beginning as I fix bugs / enhance the rendering portion.
 
+# Current Status
+
+Currently, everything compiles and at least runs. The WPF Demi application is the one I started updating. There is a textbox to enter url's and a go button that navigates to the page. There is currently no history, bookmarks, etc. 
+
+I'm currently evaluating the existing codebase and working on setting up overall structures for the various browser features. I'm also working on updating the demo application to be more useful.
+
 # How you can help
 
-As I said earlier, this project is far too large for me to tackle by myself. I'm currently evaluating the existing codebase and working on setting up overall structures for the various browser features. I'm also working on updating the demo application to be more useful.  If you're interested in helping, PR's are welcome. Reviews of the architecture / plans are also extremely helpful. I have a regular full time job, but I can get on any of the major chat platforms in the evenings if you'd like to have a deeper conversation. I can also be reached via email -- taladon at gmail dot com
+ If you're interested in helping, PR's are welcome. However, the first priority is to get the architecture right. Once it's posted, feel free to comment, make suggestions, etc.
+
+# How to contact me
+
+ I have a regular full time job, but I can get on any of the major chat platforms in the evenings if you'd like to have a deeper conversation. I can also be reached via email -- taladon at gmail dot com
